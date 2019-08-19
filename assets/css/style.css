@@ -1,0 +1,42 @@
+.background {
+    background-image: linear-gradient( to bottom, #f39223, #ffffff);
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+img {
+    height: 60px;
+    width: auto;
+    padding: 0 20px;
+}
+
+#left {
+    float:left;
+}
+
+#right {
+    float: right;
+}
+
+.card {
+    background-color: transparent;
+}
+
+#header {
+    clear: both;
+    text-align: center;
+    color: #854804;
+}
+
+.timer-section {
+    text-align: center;
+    color: #6123f3;
+}
+
+.card {
+    max-width: 600px;
+    width: 100%;
+    margin: 10px auto;
+}
